@@ -11,10 +11,14 @@ Submission Belajar Dasar Pemrograman Web (Dicoding)
 5. Tema yang ditampilkan bebas, **kecuali** tema Bandung.
 6. Semakin detail dan lengkap website Anda maka nilai submission bisa lebih tinggi.
 
+# Preview / Hasil Website
+  [Klik Disini](https://rs.maul-web.net/)
+  
 # Cara Penggunaan
 1. Clone / unduh repositori ini 
-  "git clone https://github.com/Nilhevia/bookshelf-app.git"
+  "git clone https://github.com/Nilhevia/ReminderSchedule.git"
 2. Buka file index.html di browser kesayangan anda
+  
 # Screenshot
 
 ![ss](https://user-images.githubusercontent.com/70457593/191177736-63a64d18-2f91-42ad-a382-744238b42aab.png)
